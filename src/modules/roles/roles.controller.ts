@@ -23,7 +23,6 @@ export class RolesController {
     }
 
     /**
-     * 
      * Consultar roles
      */
     @Get()
