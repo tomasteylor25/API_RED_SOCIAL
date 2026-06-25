@@ -27,6 +27,7 @@ export class RolesService {
             201,
         );
     }
+    
     /**
      * Metodo para consultar roles
      */
